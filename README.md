@@ -1,2 +1,3 @@
 # Laundry_Management_System_WebApp
- Demo for Landry management system
+
+Read Ch-1,2,3,4.docx file
